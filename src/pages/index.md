@@ -1,15 +1,32 @@
 ---
 templateKey: index-page
-title: Non aux Nuisances Du Rer A
-image: /img/home-jumbotron.jpg
-heading: Les Riverains négligés
-subheading: Les riverains en ont marre
+title: Ras-le-Bol des Nuisances du RER A !!
+image: /img/rer.jpg
+heading: Mr Sylvain Berrios et la RATP Ignorent les Nuisances Sonores au
+  Détriment des Citoyens
+subheading: Les Riverains en Ont Assez !
 mainpitch:
-  title: Aucune solution acoustique
-  description: Le Maire de Saint Maur Mr Sylvain Berrios et la RATP n'ont
-    absolument rien mis en place concernant les nuisances sonores du Rer sur la
-    ville de Saint Maur des fosses, alors que tout le tronçon est à ciel ouvert.
-description: "Depuis "
+  title: "Incompétence Municipale : Saint-Maur Abandonné face aux Nuisances
+    Sonores du RER"
+  description: >-
+    Le Maire de Saint-Maur, M. Sylvain Berrios, et la RATP semblent avoir
+    complètement négligé la réalité des souffrances endurées par les résidents
+    de Saint-Maur-des-Fossés en raison des nuisances sonores incessantes causées
+    par le RER. 
+
+    C'est une situation alarmante, d'autant plus que l'intégralité du tronçon traverse la ville à ciel ouvert, laissant les riverains exposés à un niveau de bruit inacceptable.
+description: Pendant que les citoyens de Saint-Maur souffrent, l'absence totale
+  de mesures concrètes de la part du Maire Mr Sylvain Berrios et de la RATP est
+  tout simplement inexcusable. L'omission de protéger les habitants des
+  perturbations sonores démontre un manque de considération flagrant pour la
+  qualité de vie de la population locale. On peut se demander si leurs intérêts
+  sont ailleurs, car il est indéniable que la tranquillité et le bien-être des
+  résidents sont relégués au second plan.  Il est grand temps que le Maire et la
+  RATP prennent leurs responsabilités au sérieux et agissent immédiatement pour
+  mettre en place des mesures de protection phonique le long de la ligne du RER
+  à Saint-Maur-des-Fossés. Les riverains méritent une vie paisible et sans bruit
+  excessif, et il est de leur droit d'attendre une action rapide de leurs
+  représentants locaux et de l'opérateur de transport public
 intro:
   blurbs:
     - image: /img/coffee.png
