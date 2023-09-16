@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
+import Seo from "../components/Seo";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
@@ -138,3 +139,4 @@ export const pageQuery = graphql`
     }
   }
 `;
+export const Head = () => <Seo />

@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Nuisances Rer A Saint Maur Des Fosses",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Contre les nuisances du Rer A et l'inaction de la RATP et du maire de Saint Maur Des Fosses Mr Sylvain Berrios",
+    siteUrl: 'https://nuisances-rer-saintmaur.fr'
   },
   plugins: [
     "gatsby-plugin-react-helmet",
