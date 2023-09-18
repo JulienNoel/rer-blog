@@ -37,6 +37,9 @@ const Footer = class extends React.Component {
               </div>              
             </div>
           </div>
+          <div>
+            <p>Site hebergé chez Netlify</p>
+          </div>
         </div>
       </footer>
     );
