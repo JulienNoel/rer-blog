@@ -5,7 +5,7 @@ date: 2023-09-18T08:42:01.100Z
 description: Jusqu'à présent la ville et la Ratp ne mettent rien en place pour
   les citoyens concernant les nuisances sonores du Rer A.
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/rails.jpg
 tags:
   - bruit
   - nuisances
@@ -15,7 +15,7 @@ tags:
   - ratp
   - saintmaur-creteil
 ---
-![chemex](/img/chemex.jpg)
+![Joints de signalisation](/img/rails.jpg)
 
 Depuis une année maintenant je me plains auprès de la Ratp des nuisances sonores à chaque passage de rer en direction de Paris entre la gare de Saint-Maur Créteil et Saint Maur le parc.\
 C﻿elà est du à un joint de signalisation qui provoques des 'claquements' insupportable à chaque passage de trains. J'ai relancé plus d'une dizaine de fois la RATP afin qu'ils interviennent concernant ces nuisances et ils ont effectué une opération de maintenance sur ce joint sur lequel ils avaient constaté un défaut.\
