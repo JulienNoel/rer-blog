@@ -26,6 +26,11 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/about">
+                        Liens utiles
+                      </Link>
                     </li>                    
                   </ul>
                 </section>
