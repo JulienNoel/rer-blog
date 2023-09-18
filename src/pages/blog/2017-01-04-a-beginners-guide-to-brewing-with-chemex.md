@@ -6,7 +6,12 @@ description: Jusqu'à présent la ville et la Ratp ne mettent rien en place pour
   les citoyens concernant les nuisances sonores du Rer A.
 featuredpost: false
 featuredimage: /img/rails.jpg
-tags: []
+tags:
+  - rer
+  - saintmaur
+  - nuisances
+  - bruit
+  - ""
 ---
 ![](/img/rails.jpg)
 
