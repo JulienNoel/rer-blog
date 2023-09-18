@@ -10,7 +10,7 @@ tags: []
 ---
 ![](/img/rails.jpg)
 
-## Le cauchemar sonore des habitants de Saint-Maur:
+Le cauchemar sonore des habitants de Saint-Maur:
 
 Depuis une année maintenant je me plains auprès de la Ratp des nuisances sonores à chaque passage de rer en direction de Paris entre la gare de Saint-Maur Créteil et Saint Maur le parc.\
 Ce supplice quotidien est dû à un joint de signalisation qui provoque des 'claquements' insupportables à chaque passage de trains. J'ai relancé plus d'une dizaine de fois la RATP afin qu'ils interviennent concernant ces nuisances et ils ont effectué une opération de maintenance sur ce joint sur lequel ils avaient constaté un défaut.\
@@ -19,7 +19,7 @@ J'ai de nouveau relancé la RATP à ce sujet qui me renvoie vers le grand Paris 
 J'ai également contacté la mairie de Saint Maur qui m'a répondu laborieusement après plusieurs mails de relance...\
 L﻿a mairie semble désintéressée du bien être de ses citoyens par rapport au bruit, ils sont clairement aux abonnés absents pour trouver une solution à ces nuisances et la volonté d'en trouver une ne se fait clairement pas ressentir.
 
-## Une réponse incohérente de la RATP : 
+Une réponse incohérente de la RATP : 
 
 ***"Comme nous vous l’indiquions lors de nos précédents courriers, les chocs générés au passage des rames sur les joints  de signalisation ne peuvent être éliminés complètement, mais seulement diminués de façon plus ou moins significative lors d’opérations de maintenance. Ces éléments constitutifs de la voie ont un impact sur l’environnement complexe à maîtriser, car ils présentent des discontinuités inévitables dans les rails et génèrent des cognements et vibrations plus ou moins forts au passage des trains.***
 
@@ -37,6 +37,6 @@ Si l’on regarde d’un peu plus près la carte de bruit mis à disposition par
 
 Comment se fait-il qu' une protection phonique soit construite à Fontenay sous bois et que Saint Maur soit exclu de ces mesures alors que les nuisances sonores y sont indéniablement plus élevées qu’ailleurs ? 
 
-## L’inaction du Maire de Saint Maur
+L’inaction du Maire de Saint Maur
 
 Depuis plusieurs années maintenant pendant que les résidents souffrent, le maire de Saint-Maur, M. Berrios, semble préférer s'occuper d'autres priorités, telles que les arrêtés municipaux concernant les crottes de chien. Son inaction est une insulte aux habitants qui endurent les conséquences des infrastructures vieillissantes de la RATP.
