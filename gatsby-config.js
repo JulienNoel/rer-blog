@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Nuisances Rer A Saint Maur Des Fosses",
+    title: "Bruit | Nuisances sonores Rer A Saint Maur Des Fosses",
     description:
-      "Contre les nuisances du Rer A et l'inaction de la RATP et du maire de Saint Maur Des Fosses Mr Sylvain Berrios",
+      "Contre les nuisances sonores du Rer A et l'inaction de la RATP et du maire de Saint Maur Des Fosses Mr Berrios",
     siteUrl: 'https://nuisances-rer-saintmaur.fr'
   },
   plugins: [
